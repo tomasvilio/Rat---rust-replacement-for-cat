@@ -1,0 +1,8 @@
+[package]
+name = "rat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+static_cell = "2.1.0"
+unicode-segmentation = "1.12.0"
