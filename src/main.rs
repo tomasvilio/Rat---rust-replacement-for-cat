@@ -23,7 +23,7 @@ fn main()
     
     if arguments.is_empty()
     {
-        println!("no file to read from! try the following syntax: rat <optional_flag> <your_file_name>.<your_file_extension>");
+        println!("no file to read from! try the following syntax: rat <your_file_name>.<your_file_extension>");
         exit(1);
     }
 
